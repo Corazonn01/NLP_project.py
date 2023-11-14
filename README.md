@@ -1,4 +1,4 @@
-#nlp.py
+#nlp.py 
 # 1)task (tokenization, normalization, stop words, lemmatization, stemming
 import nltk
 from nltk.tokenize import word_tokenize
